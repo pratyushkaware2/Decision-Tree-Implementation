@@ -3,6 +3,7 @@ Implemented Decision Trees from Scratch
 
 Trained on Following Dataset: https://archive.ics.uci.edu/ml/datasets/adult
 
+<pre>
 TREE
 +-- [SPLIT: x4 = 2]
 |	+-- [SPLIT: x6 = 3]
@@ -26,6 +27,7 @@ TREE
 |	|	|	+-- [LABEL = 1]
 |	|	+-- [SPLIT: x2 = 12]
 |	|	|	+-- [LABEL = 1]
+</pre>
 
 Confusion matrix: [[298, 420],
                    [134, 2148]]
