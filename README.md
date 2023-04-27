@@ -29,13 +29,9 @@ TREE
 |	|	|	+-- [LABEL = 1]
 </pre>
 
-Confusion matrix: [[298, 420],
-                   [134, 2148]]
 Implementation Test Error = 18.47%.
 
 Scikit Learn's Tree:
 ![Results](results.png)
 
-Confusion matrix of sk: [[341, 377], 
-                         [107, 2175]]
 Scikit-learns’s test Error = 16.13%.
